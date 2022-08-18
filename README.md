@@ -1,32 +1,3 @@
-# csc413-tankgame
-
-
-| Student Information |                     |
-|:-------------------:|---------------------|
-|  Student Name       | Justin Yu           |
-|  Student Email      | jyu22@mail.sfsu.edu |
-
-## src Folder Purpose 
-src folder is to be used to store source code only.
-
-## resources Folder Purpose 
-resources folder is to be used to store the resources for your project only. This includes images, sounds, map text files, etc.
-
-`The src and resources folders can be deleted if you want a different file structure`
-
-## jar Folder Purpose 
-The jar folder is to be used to store the built jar of your term-project.
-
-`NO SOURCE CODE SHOULD BE IN THIS FOLDER. DOING SO WILL CAUSE POINTS TO BE DEDUCTED`
-
-`THIS FOLDER CAN NOT BE DELETED OR MOVED`
-
-# Required Information when Submitting Tank Game
-
-## Version of Java Used: 17.0.1
-
-## IDE used: Intellij
-
 ## Steps to Import project into IDE:
 Simply click on the green Code button in github and save the http url.
 Then go into your terminal and clone the url that you saved.
